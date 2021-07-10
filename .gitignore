@@ -1,5 +1,5 @@
 .idea
-venn
+venv
 *.pyc
 *__pycache__/
 main
